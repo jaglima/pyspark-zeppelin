@@ -4,7 +4,7 @@ This docker image allows the development of pyspark through the user of Zepellin
 
 ## Basic Use
 
-The docker images can be found in the [Miner Kasch repository](https://hub.docker.com/r/jaglima/pyspark-zepellin/) on Docker Hub.
+The docker images can be found in  [my repository](https://hub.docker.com/r/jaglima/pyspark-zepellin/) on Docker Hub.
 
 ### Obtaining the Docker Image
 
